@@ -36,8 +36,7 @@ Languages used:
 I like computer science because I can apply it to things I like such as fantasy football or just watching sports in general. I also like to watch movies and walk my two dogs.
 
 ```
-![Contributors for this project]
-(https://i.imgur.com/ijp1gaw_d.webp?maxwidth=520&shape=thumb&fidelity=high)
+![Contributors for this project](https://i.imgur.com/ijp1gaw_d.webp?maxwidth=520&shape=thumb&fidelity=high)
 ```
 
 My favorite things to do, in order:
@@ -50,3 +49,7 @@ My favorite things to do, in order:
 - [x] Lab 1
 - [ ] Lab 2
 - [ ] Find good groupmates :flushed:
+
+![Another cat](.github/FU031hlWYAAms9y.jpg)
+
+[TOP](#programming)
